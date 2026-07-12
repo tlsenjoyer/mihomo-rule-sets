@@ -1,4 +1,17 @@
 payload:
+  - PROCESS-NAME-REGEX,(?i)^vk(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^MAX(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^GameCenter(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^MyComGames(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^eXpress(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^Яндекс Музыка(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^2GIS(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^ivi(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^Gismeteo(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^TrueConf(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^TrueConf_Angle(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^sbis3plugin(\.exe)?$
+  - PROCESS-NAME-REGEX,(?i)^SBIS(\.exe)?$
   - PROCESS-NAME,com.vkontakte.android
   - PROCESS-NAME,ru.ok.android
   - PROCESS-NAME,ru.mail.mailapp
